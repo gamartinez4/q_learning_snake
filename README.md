@@ -1,8 +1,5 @@
 
-
-
-https://github.com/user-attachments/assets/903adce1-8938-4869-a22a-92da3f328f28
-
+![Grabación 2025-05-14 112226](https://github.com/user-attachments/assets/6cb6c5fa-e110-40a7-811c-e1b8b996915f)
 
 
 # 🐍 Snake RL - Q-Learning
