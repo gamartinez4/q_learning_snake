@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/903adce1-8938-4869-a22a-92da3f328f28
+
+
+
 # 🐍 Snake RL - Q-Learning
 
 This project implements the classic Snake game trained using the **Q-Learning** algorithm. It uses `pygame` for the visual environment and a `QLearningAgent` class that learns through trial and error.
