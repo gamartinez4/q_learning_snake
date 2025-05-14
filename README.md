@@ -32,9 +32,10 @@ Install dependencies:
 
 ```bash
 pip install pygame numpy
+```
 
-
-## ⚙️  Run
+Run commmand
 
 ```bash
 python main.py
+```
